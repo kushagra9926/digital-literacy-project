@@ -1,7 +1,7 @@
 # Case Study: UPI/Online Payment Fraud
 
 **Cybercrime Type:** UPI / Online Payment Fraud  
-**Prepared by:** Digital Ambassador | Task 5
+**Prepared by:** Digital Ambassador 
 
 ---
 
