@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-A responsible online presence checklist for VIT Bhopal students.
+A responsible online presence checklist for College Students.
 
 ---
 
