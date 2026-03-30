@@ -21,15 +21,31 @@
 ```
 digital-literacy-project/
 │
-├── README.md                          ← You are here
+├── README.md
 ├── report/
-│   └── Project Report.pdf             ← Full written report
+│   └── Project Report.pdf
 │
-├── task-1-presentation/                ← Infographic / visual slide
-├── task-2-portfolio/                  ← Profile screenshots & reflection
-├── task-3-platforms/                  ← Coding challenge + Google Form screenshots
-├── task-4-email-etiquette/            ← Email drafts + social media checklist
-└── task-5-cybercrime/                 ← Case study + prevention checklist
+├── task-1-presentation/
+│   └── Infographic.png
+│
+├── task-2-portfolio/
+│   ├── Github.png
+│   ├── Linkedin.png
+│   └── Kaggle.png
+│
+├── task-3-platforms/
+│   ├── HackerRank.png
+│   ├── Form.png
+│   └── Response.png
+│
+├── task-4-email-etiquette/
+│   ├── Email 1.pdf
+│   ├── Email 2.pdf
+│   └── social-media-checklist.md
+│
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
 ```
 
 ---
